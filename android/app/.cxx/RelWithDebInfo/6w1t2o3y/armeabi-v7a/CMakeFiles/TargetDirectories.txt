@@ -1,0 +1,2 @@
+E:/splash_screen/splash_screen/android/app/.cxx/RelWithDebInfo/6w1t2o3y/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/splash_screen/splash_screen/android/app/.cxx/RelWithDebInfo/6w1t2o3y/armeabi-v7a/CMakeFiles/rebuild_cache.dir

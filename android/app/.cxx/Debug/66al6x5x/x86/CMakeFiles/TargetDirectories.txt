@@ -1,0 +1,2 @@
+E:/splash_screen/splash_screen/android/app/.cxx/Debug/66al6x5x/x86/CMakeFiles/edit_cache.dir
+E:/splash_screen/splash_screen/android/app/.cxx/Debug/66al6x5x/x86/CMakeFiles/rebuild_cache.dir

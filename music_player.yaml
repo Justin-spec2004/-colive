@@ -1,0 +1,17 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  background_image: "assets/background2.png"
+  image: "assets/logo2.png"
+  branding: "assets/branding2.png"
+
+  background_image_dark: "assets/background2.png"
+  image_dark: "assets/logo2.png"
+  branding_dark: "assets/branding2.png"
+  
+  android_12:
+    color: "#fae7ce"
+    image: "assets/logo2.png"
+    branding: "assets/branding2.png"
